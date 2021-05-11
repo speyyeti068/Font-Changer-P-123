@@ -1,7 +1,7 @@
 function setup(){
     video = createCapture(VIDEO);
     video.size(500,400)
-    video.position(0,190);
+    video.position(250,190);
 
     canvas = createCanvas(500,380);
     canvas.center();
